@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BioData_TYIF22_TarunMirani", "WindowsApplication6\BioData_TYIF22_TarunMirani.vbproj", "{3175870E-872C-4D61-9B7B-F9DF3ABAD4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3175870E-872C-4D61-9B7B-F9DF3ABAD4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3175870E-872C-4D61-9B7B-F9DF3ABAD4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3175870E-872C-4D61-9B7B-F9DF3ABAD4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3175870E-872C-4D61-9B7B-F9DF3ABAD4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
