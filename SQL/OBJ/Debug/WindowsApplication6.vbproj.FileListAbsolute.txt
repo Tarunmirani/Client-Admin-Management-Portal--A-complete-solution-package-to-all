@@ -1,0 +1,11 @@
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources

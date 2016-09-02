@@ -1,0 +1,149 @@
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\XCOMSTORE\Documents\Visual Studio 2008\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Adminlookout.resources
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.BiodataMain.resources
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\BioData.mdb
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.cache
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.compiled
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.PreviewData.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\BioData.mdb
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Adminlookout.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.BiodataMain.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.PreviewData.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.cache
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.compiled
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\BioData.mdb
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Adminlookout.resources
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.BiodataMain.resources
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.PreviewData.resources
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.cache
+J:\New folder\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.compiled
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\BioData.mdb
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Adminlookout.resources
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.BiodataMain.resources
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.PreviewData.resources
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.cache
+C:\Users\ANGEL\Documents\Visual Studio 2008\Projects\;Others\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.compiled
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\BioData.mdb
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Adminlookout.resources
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.BiodataMain.resources
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.PreviewData.resources
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.cache
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.compiled
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.CrystalReport.resources
+K:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.AdminLogin.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.AdminLogin.resources
+F:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.CrystalReport.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\BioData.mdb
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.AdminLogin.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Adminlookout.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.BiodataMain.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.CrystalReport.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.PreviewData.resources
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.cache
+E:\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.compiled
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.AdminLogin.resources
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.CrystalReport.resources
+C:\Users\XCOMSTORE\Desktop\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Dual.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\BioData.mdb
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.AdminLogin.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Adminlookout.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.BiodataMain.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.CrystalReport.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Display.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Designing.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Dual.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.PreviewData.resources
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\BioData_TYIF22_TarunMirani.vbproj.GenerateResource.Cache
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.cache
+F:\Studies\my diploma\6th  semester\My AWT\AWT FINAL PROJECTS\DATABASE\sql database\BioData_Tyif22_TarunMirani\WindowsApplication6\WindowsApplication6\obj\Debug\RdlCompile.compiled
