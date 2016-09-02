@@ -1,0 +1,8 @@
+In this data base project you can use any of the database...
+just  you have to start with  sql database..
+go to sql database --> n then start the project..
+
+if any error comes..please create your own database and just change the path..
+as their are two databases so path cannot be relational.
+
+
